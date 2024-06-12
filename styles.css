@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    font-size: 48px;
+}
+body{
+    font-family: 'Great Vibes', cursive;
+}
+.main-list{
+    font-size: 24px;
+    margin: 12px;
+}
+ .subtitle{
+    font-size: 36px;
+ }
+ .context{
+    font-size: 24px;
+    color: black;
+ }
+ img{
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
+    margin-left: 10px;
+ }
