@@ -1,6 +1,14 @@
 .title{
     text-align: center;
     font-size: 48px;
+    border-bottom:3px solid black;
+    padding-bottom: 10px;
+    background-color: wheat;
+    margin:0 auto;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 5px;
+    border-top:3px solid black;
 }
 body{
     font-family: 'Great Vibes', cursive;
@@ -8,9 +16,17 @@ body{
 .main-list{
     font-size: 24px;
     margin: 12px;
+    box-sizing: border-box;
+    display: inline-block;
 }
  .subtitle{
     font-size: 36px;
+    display: block;
+    padding: 5px 20px;
+    margin: 10px 0px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: wheat;
  }
  .context{
     font-size: 24px;
@@ -21,4 +37,12 @@ body{
     height: auto;
     border: 2px solid black;
     margin-left: 10px;
+ }
+ .mle{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    background-color: wheat;
+    padding: 5px 40px;
+    box-sizing: border-box;
  }
